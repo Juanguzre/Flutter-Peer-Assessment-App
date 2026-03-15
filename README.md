@@ -479,6 +479,4 @@ flowchart TD
     H --> I[View Assessment Status]
 ```
 
-Un detalle: en tu numeración original hay un par de saltos, por ejemplo aparece el paso 5 después del 3 en algunos flujos. Lo dejé igual en varias partes para no alterar demasiado tu estructura visual. Si quieres, te lo corrijo para que quede completamente pulido y listo para entrega.
-
 * Clean Architecture
