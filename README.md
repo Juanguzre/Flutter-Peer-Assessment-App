@@ -164,7 +164,7 @@ flowchart TD
 
 1. The student logs in.
 
-<img width="507" height="898" alt="image" src="https://github.com/user-attachments/assets/674fcb14-a8ba-42ee-a173-08bcb3eb3983" />
+<img width="486" height="896" alt="image" src="https://github.com/user-attachments/assets/827bfa61-78ec-4e4a-887f-91bd7319e6b0" />
 
 2. Selects the active course.
 
