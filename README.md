@@ -1,4 +1,4 @@
-# Application Proposal
+# Application Proposal Dark Mode version
 
 ## Author
 
@@ -6,7 +6,7 @@ Juan Pablo Guzman Restrepo.
 
 ## Project
 
-Mobile Development Project — Peer Assessment App
+Mobile Development Project — Peer Assessment App 
 
 ---
 
